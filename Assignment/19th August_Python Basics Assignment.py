@@ -72,7 +72,7 @@ for char in sentence:
         #If the character is a vowel, increment the vowel_count variable
         vowel_count += 1
 
-# Step 7: Display the result
+#Display the result
 print("Number of vowels:", vowel_count)
 
 
